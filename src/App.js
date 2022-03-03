@@ -8,6 +8,7 @@ import Release from './components/Release';
 import ScrollToTop from './components/ScrollToTop';
 import Signup from './components/Signup';
 import SuperRare from './components/SuperRare';
+import "./scss/index.scss"
 
 export default function App() {
   return (
