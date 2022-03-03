@@ -1,8 +1,8 @@
 import React from "react";
 import Card from "./Card";
 import icon from "../assets/icon.png";
-import super1 from "../assets/super1.png";
-import release2 from "../assets/release2.png";
+import super1 from "../assets/super3.jpg";
+import release2 from "../assets/super4.jpg";
 
 export default function Free() {
   return (
@@ -26,8 +26,8 @@ export default function Free() {
         <div className="card1">
           <Card
             image={super1}
-            series="Gloop Series"
-            title="Purple Man"
+            series="Loop Series"
+            title="Blue 3D"
             price={2.99}
             tag={12983}
             time={1}
@@ -36,8 +36,8 @@ export default function Free() {
         <div className="card2">
           <Card
             image={release2}
-            series="Gloop Series"
-            title="Purple Man"
+            series="Loop Series"
+            title="Beige 3D"
             price={3.95}
             tag="1094"
             time={2}

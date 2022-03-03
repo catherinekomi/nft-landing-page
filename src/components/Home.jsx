@@ -1,5 +1,5 @@
 import React from "react";
-import home from "../assets/home.png";
+import home from "../assets/home3.png";
 export default function Home() {
   return (
     <div className="home">
@@ -15,7 +15,7 @@ export default function Home() {
         </div>
         <div className="image-container">
           <div className="image">
-            <img src={home} alt="home image" />
+            <img src={home} alt="home image" width="450" height="450" />
           </div>
           <div className="ellipse-container">
             <div className="ellipse pink"></div>
