@@ -33,7 +33,7 @@ export default function Release() {
           <Card
             image={release2}
             series="Gloop Series"
-            title="Purple Man"
+            title="Mint Splash 3D"
             price={3.95}
             tag="1094"
             time={2}
